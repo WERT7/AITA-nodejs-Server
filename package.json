@@ -1,0 +1,19 @@
+{
+  "name": "AITA-Awards-Miledger-nodejs-Server",
+  "description": "Colored Coins logic for AITA Awards Miledger sample app",
+  "version": "0.0.1",
+  "private": true,
+  "license": "Apache Version 2.0",
+  "author": "WERT",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "4.14.1",
+    "bitcoinjs-lib": "1.5.8",
+    "request": "2.81.0"
+  }
+}

@@ -1,0 +1,13 @@
+funded 1 (4.99995): new TESTNET address: [mxq96DTF2oVMbTRaeUrS9CkgxRYaJUK9s2]
+Private Key of new address (WIF format): [L4hrkzAf33pxPcZjqy1NB3fKbyzm3DbDSHWy9EnTCE44hkhWrfpg]
+
+mphjimvyU3K7kUxfxa7Jkzv1y1yG1HNLa2 with email testnet faucet
+mrr7kt4QJAzqTbFwitqCrQwe1hFNJWhA7m mobile testnet address
+
+funded 2 (1.71875): new TESTNET address: [n2XGXggyhMAoDf9kDp77QQasUg2FfndeBJ]
+Private Key of new address (WIF format): [L3dJaYNotNMw7VmsW1QRtEcYR3UpZgB8zKBXfLALwwZxfY897TY6]
+
+funded 3 (0.1035): new TESTNET address: [mzS1gJzAwUT7Ky14MCzTke4Wy17eBgL5vz]
+Private Key of new address (WIF format): [L1KQBGRVaXFzb9nbpmcUECiiuBQjn3kxZCr1mZSCA8M1U3qYES9q]
+
+aita #1 assetID: Ua6RGAf669xDrWRKAnj6jyboqg9cxkNNHJurR3
